@@ -1,0 +1,11 @@
+#define re 1
+#define mai 2
+#define form 3
+#define vid 4
+#define tovar 5
+#define izgo 6
+#define izgo_red 7
+#define pokupk 8
+#define pokupa 9
+#define pokupa_red 10
+#define searc 11
